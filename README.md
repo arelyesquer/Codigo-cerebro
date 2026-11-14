@@ -1,0 +1,2 @@
+# Codigo-cerebro
+Abordaje rapido
